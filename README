@@ -1,7 +1,9 @@
-Analysis Station create sevral files :
+Analysis Station create several files :
 
 .ASW which just seems to be a information file 
 .img which is the haadf image. Sadly, it is in a different file from eds data
 .map which are again haadf image (0000001.map) and elemental map (depending how many you selected)
 .pts which contain eds hypermap data
 .eds which are spectra you defined
+
+The .ods file is a summary of metadata extracted from jeol file using GHex
